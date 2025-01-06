@@ -19,15 +19,15 @@
     "commands": [
       {
         "command": "neofile.helloWorld",
-        "title": "Hello World"
+        "title": "Neofile: Hello World"
       },
       {
         "command": "neofile.identify",
-        "title": "Identify"
+        "title": "Neofile: Identify"
       },
       {
         "command": "neofile.vf",
-        "title": "VF"
+        "title": "Neofile: VF"
       }
     ]
   },
