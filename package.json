@@ -3,7 +3,7 @@
   "displayName": "neofile",
   "description": "VSCode extension for neofile CLI.",
   "version": "0.0.1",
-  "publisher": "benjamin liu",
+  "publisher": "benrealsigma",
   "license": "MIT",
   "engines": {
     "vscode": "^1.96.0"
