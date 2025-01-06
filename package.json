@@ -22,6 +22,10 @@
       {
         "command": "neofile.identify",
         "title": "Identify"
+      },
+      {
+        "command": "neofile.vf",
+        "title": "VF"
       }
     ]
   },

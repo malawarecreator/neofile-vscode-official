@@ -1,11 +1,5 @@
 import * as vscode from "vscode";
 import { exec } from "child_process";
-export const helloWorldDisposable = vscode.commands.registerCommand(
-  "neofile.helloWorld",
-  () => {
-    vscode.window.showInformationMessage("Hello World from neofile!");
-  }
-);
 export const identifyDisposable = vscode.commands.registerCommand(
   "neofile.identify",
   async () => {
